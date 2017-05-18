@@ -4,6 +4,7 @@
     <types>
         <members>Candidate__c.Address__c</members>
         <members>Candidate__c.CandidateStatus__c</members>
+	<members>Candidate__c.Candidatedate__c</members>
         <name>CustomField</name>
     </types>
         <version>39.0</version>
